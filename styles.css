@@ -1,0 +1,12 @@
+button {
+  position: absolute;
+  left: 650px;
+  top: 250px;
+  background-color: transparent;
+  border: solid 1px;
+  padding: 5px;
+}
+
+h1 {
+  text-align: center;
+}
